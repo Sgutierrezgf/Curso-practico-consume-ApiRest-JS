@@ -1,0 +1,19 @@
+{
+  "name": "curso-practico-consume-apirest-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sgutierrezgf/Curso-practico-consume-ApiRest-JS.git"
+  },
+  "author": "Sebastian Gutierrez Guisao segut10@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sgutierrezgf/Curso-practico-consume-ApiRest-JS/issues"
+  },
+  "homepage": "https://github.com/Sgutierrezgf/Curso-practico-consume-ApiRest-JS#readme"
+}
